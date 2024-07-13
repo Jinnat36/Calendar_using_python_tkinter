@@ -69,3 +69,5 @@ This is a simple calendar application built using Python's Tkinter library. The 
 4. The "Exit" button closes the application.
 
 ## Screenshot
+![Screenshot 2024-07-13 093819](https://github.com/user-attachments/assets/8fe6f23f-64c2-46c7-9630-199db374d16e) ![Screenshot 2024-07-13 093829](https://github.com/user-attachments/assets/b6f02474-4b52-48f5-9695-c73611380147)
+
